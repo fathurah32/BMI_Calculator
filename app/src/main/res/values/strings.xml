@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" gravity="center">BMI CALCULATOR</string>
+    <string name="bmi_calculator">Weight</string>
+    <string name="weight">Weight In KG</string>
+    <string name="height">Height In Centimeter(CM)</string>
+    <string name="Height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="moderately_obese">Moderately Obese</string>
+    <string name="severely_obese">Severely Obese</string>
+    <string name="very_severely_obese">Very Severely Moderately Obese</string>
+    <string name="riskUnderweight">Heatlh Risk: Malnutrition Risk</string>
+    <string name="riskNormal">Heatlh Risk: Low Risk</string>
+    <string name="riskOverweight">Heatlh Risk: Enchanced Risk</string>
+    <string name="riskModerately_obese">Heatlh Risk: Medium Risk</string>
+    <string name="riskSeverely_obese">Heatlh Risk: High Risk</string>
+    <string name="riskVery_severely_obese">Heatlh Risk: Very High Risk</string>
+    <string name="openInfo">Info</string>
+    <string name="hyperlink">Please Visit <a href="https://github.com/fathurah32/BMI_Calculator">
+        github.com/fathurah32/BMI_Calculator</a> </string>
+
+
+</resources>
